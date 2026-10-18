@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 120" fill="none">
+  <!-- "care" in deep herbal green lowercase bold sans-serif -->
+  <text
+    x="4"
+    y="102"
+    fill="#116A0E"
+    font-family="'Inter', 'Helvetica Neue', Arial, sans-serif"
+    font-weight="800"
+    font-size="118"
+    letter-spacing="-4"
+  >care</text>
+
+  <!-- "PLUS" in clinical blue uppercase bold sans-serif -->
+  <text
+    x="284"
+    y="102"
+    fill="#095B9E"
+    font-family="'Inter', 'Helvetica Neue', Arial, sans-serif"
+    font-weight="800"
+    font-size="96"
+    letter-spacing="-2"
+  >PLUS</text>
+
+  <!-- Green Plus (+) Medical Cross with White Border overlapping top-left of P -->
+  <g transform="translate(277, 3)">
+    <!-- Outer white border for crisp separation over P -->
+    <path
+      d="M14 4C14 1.79086 15.7909 0 18 0H26C28.2091 0 30 1.79086 30 4V14H40C42.2091 14 44 15.7909 44 18V26C44 28.2091 42.2091 30 40 30H30V40C30 42.2091 28.2091 44 26 44H18C15.7909 44 14 42.2091 14 40V30H4C1.79086 30 0 28.2091 0 26V18C0 15.7909 1.79086 14 4 14H14V4Z"
+      fill="#146D10"
+      stroke="#FFFFFF"
+      stroke-width="2.5"
+      stroke-linejoin="round"
+    />
+    <!-- Inner White Botanical Leaf with curved central vein -->
+    <path
+      d="M22.5 8.5C22.5 8.5 14.5 16.5 15.2 25.2C15.7 31.2 19.8 34.8 22.2 35.4C20.6 30.2 21.2 23.4 24.8 16.5C23.5 22.8 23.2 29.8 24.6 35.1C27.8 33.8 29.8 29.6 29.3 23.8C28.7 16.8 22.5 8.5 22.5 8.5Z"
+      fill="#FFFFFF"
+    />
+  </g>
+</svg>
